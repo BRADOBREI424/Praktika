@@ -75,7 +75,6 @@
     <Compile Include="FolderClass\ClassEdit.cs" />
     <Compile Include="FolderClass\ClassMB.cs" />
     <Compile Include="FolderClass\FolderTable\ClassUser.cs" />
-    <Compile Include="FolderViewModel\ViewRecievePasswordLogin.cs" />
     <Compile Include="FolderView\PagesRecievePassword\PageRecievePasswordLogin.xaml.cs">
       <DependentUpon>PageRecievePasswordLogin.xaml</DependentUpon>
     </Compile>
